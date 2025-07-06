@@ -1,7 +1,5 @@
 # Extract-VMWare-VM-Gen-Encryption-Win
 
-# Extract-VMWare-VM-Gen-Encryption-Win
-
 **Extract-VMWare-VM-Gen-Encryption-Win** is a PowerShell script designed to **retrieve the VM encryption secret** (such as the encryption GUID or key) from the **Windows Credential Store**. This is particularly useful for administrators or automation workflows that need to backup, migrate, or audit encrypted VMware virtual machines on Windows systems.
 
 ## What does it do?
